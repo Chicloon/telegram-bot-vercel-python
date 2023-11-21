@@ -9,3 +9,4 @@ TOKEN = Telegram Bot Token
 ### Notes
 - Env name is case sensitive
 
+up
